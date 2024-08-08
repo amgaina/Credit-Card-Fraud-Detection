@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-Link to CSV file is :: ([(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)])
+Link to CSV file is :: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data]
 
 ## Overview
 
